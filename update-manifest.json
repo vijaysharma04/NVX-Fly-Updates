@@ -5,5 +5,13 @@
     "versionName": "0.1.6",
     "url": "https://github.com/vijaysharma04/NVX-Fly-Updates/releases/download/v0.1.6/nvx-fly-0.1.6.apk",
     "sha256": "443b5cd63a133d8ad3bcbd1770de7daa9a346b0926975f2554792fb0cbc9f971"
+  },
+  "aircraft": {
+    "board": "PX4_FMU_V5",
+    "serial": "NVXSAK26B01000002",
+    "version": "1.15.4",
+    "buildId": "da73375806",
+    "url": "https://github.com/vijaysharma04/NVX-Fly-Updates/releases/download/fw-saksham-e-da73375806/px4_fmu-v5_default.px4",
+    "sha256": "d1b25a6c6a8637b915790cc0c8207455319005b3916fdb42c8bdd8c329fb3ad5"
   }
 }

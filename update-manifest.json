@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
   "app": {
-    "versionCode": 7,
-    "versionName": "0.1.6",
-    "url": "https://github.com/vijaysharma04/NVX-Fly-Updates/releases/download/v0.1.6/nvx-fly-0.1.6.apk",
-    "sha256": "443b5cd63a133d8ad3bcbd1770de7daa9a346b0926975f2554792fb0cbc9f971"
+    "versionCode": 19,
+    "versionName": "0.1.18",
+    "url": "https://github.com/vijaysharma04/NVX-Fly-Updates/releases/download/v0.1.18/nvx-fly-0.1.18.apk",
+    "sha256": "4257b3d963fed988dca4b993bd58d9689682b6e6748319df03ce967926e52555"
   },
   "aircraft": {
     "board": "PX4_FMU_V5",
